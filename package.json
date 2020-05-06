@@ -1,7 +1,7 @@
 {
-  "name": "official-website",
+  "name": "响应式官网",
   "version": "1.0.0",
-  "description": "A Vue.js project",
+  "description": "官网模板",
   "author": "liyunkun",
   "private": true,
   "scripts": {

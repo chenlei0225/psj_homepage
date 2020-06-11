@@ -10,10 +10,10 @@
       <span>Fax：8888-88888888</span>
     </p>
     <p class="email_wx">
-      <span>邮箱：liyunkun_11@163.com</span>
-      <span>公司微信号：ilyk_gg</span>
+      <span>邮箱：cxy_chenlei@163.com</span>
+      <span>公司微信号：cxy_chenlei</span>
     </p>
-    <p class="copy">Copyright &copy; 2018 - 2019 公司名称公司名称</p>
+    <p class="copy">Copyright &copy; 2019 - 2020 cxy_chenlei</p>
   </div>
 </template>
 <script>
